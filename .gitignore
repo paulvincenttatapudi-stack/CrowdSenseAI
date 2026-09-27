@@ -1,0 +1,35 @@
+# Virtual environment
+crowdsense_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model weights
+*.pt
+
+# Media files
+*.mp4
+*.wav
+
+# Original prototype
+test_yolo.py
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Runtime logs
+logs/
